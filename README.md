@@ -1,2 +1,4 @@
-# HelloWorld
- Primeriro repositório versonado
+# Hello World!
+ Primeriro repositório de todos
+
+ Repositório criado para testar meu conhecimento básico no git/ github. 
